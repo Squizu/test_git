@@ -1,0 +1,6 @@
+1. Un membre du groupe crée un repository GitHub
+2. Ce membre crée un commit et le push
+3. Les autres membres clonent le repository
+4. Vous faites une branche par membre
+5. Quelques commits sur chaque branche 
+6. Une fusion de chaque branche vers master / main
